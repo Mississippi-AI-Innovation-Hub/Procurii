@@ -354,7 +354,9 @@ if not AGENT_ID or not AGENT_ALIAS_ID:
     - AWS_ACCESS_KEY_ID (optional, if not using IAM role)
     - AWS_SECRET_ACCESS_KEY (optional, if not using IAM role)
     """)
-    st.stop()
+    st.caption("Demo mode active: Bedrock credentials are not configured locally.")
+  #  st.stop()
+  
 
 # Sidebar for controls (without configuration details)
 with st.sidebar:
