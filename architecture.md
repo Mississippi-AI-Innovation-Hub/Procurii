@@ -1,4 +1,6 @@
 # Architecture Overview
+<img width="333" height="250" alt="8db47c46-f393-4c0d-b6f6-b61a1be864ad" src="https://github.com/user-attachments/assets/f43ccd3f-895a-4a46-8df0-2465d865beef" />
+
 
 ## Summary
 
